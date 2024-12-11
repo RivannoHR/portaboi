@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/RivannoHR/portaboi/static/css/main.5c3a3555.css",
+    "main.js": "/RivannoHR/portaboi/static/js/main.ec695e73.js",
+    "static/js/453.9c7d8f7b.chunk.js": "/RivannoHR/portaboi/static/js/453.9c7d8f7b.chunk.js",
+    "static/media/mock.pdf": "/RivannoHR/portaboi/static/media/mock.cfe4b542d940bbebcff7.pdf",
+    "static/media/Rivanno Grey.png": "/RivannoHR/portaboi/static/media/Rivanno Grey.41b15636d15faf2f38e7.png",
+    "static/media/helvetica-neu.ttf": "/RivannoHR/portaboi/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/RHR LOGO.png": "/RivannoHR/portaboi/static/media/RHR LOGO.f02b6f35d5decd0f6f5f.png",
+    "static/media/LaBelleAurore.woff2": "/RivannoHR/portaboi/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/RivannoHR/portaboi/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/RivannoHR/portaboi/index.html",
+    "main.5c3a3555.css.map": "/RivannoHR/portaboi/static/css/main.5c3a3555.css.map",
+    "main.ec695e73.js.map": "/RivannoHR/portaboi/static/js/main.ec695e73.js.map",
+    "453.9c7d8f7b.chunk.js.map": "/RivannoHR/portaboi/static/js/453.9c7d8f7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c3a3555.css",
+    "static/js/main.ec695e73.js"
+  ]
+}
